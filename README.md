@@ -1,5 +1,7 @@
 # ViewRanger API Client
 
+[![Build Status](https://travis-ci.org/symm/viewranger-api-client.png?branch=master)](https://travis-ci.org/symm/viewranger-api-client)
+
 A PHP client for the [ViewRanger Beacon API](http://www.viewranger.com/developers/)
 
 ### Get the latest Beacon
