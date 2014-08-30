@@ -1,0 +1,22 @@
+{
+    "VIEWRANGER": {
+        "LOCATIONS": [
+            {
+                "ALTITUDE": null,
+                "DATE": "2014-08-23 19:18:17",
+                "HEADING": null,
+                "LATITUDE": "53.250138",
+                "LONGITUDE": "-1.834847",
+                "SPEED": "0"
+            },
+            {
+                "ALTITUDE": null,
+                "DATE": "2014-08-23 17:04:02",
+                "HEADING": null,
+                "LATITUDE": "53.345828",
+                "LONGITUDE": "-1.813419",
+                "SPEED": "0"
+            }
+        ]
+    }
+}

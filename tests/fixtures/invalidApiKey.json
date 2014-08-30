@@ -1,0 +1,8 @@
+{
+    "VIEWRANGER": {
+        "ERROR": {
+            "CODE": 1,
+            "MESSAGE": "Invalid API key"
+        }
+    }
+}
