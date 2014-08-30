@@ -1,4 +1,4 @@
-# ViewRanger API PHP Client
+# ViewRanger API Client
 
 A PHP client for the [ViewRanger Beacon API](http://www.viewranger.com/developers/)
 
@@ -6,11 +6,11 @@ A PHP client for the [ViewRanger Beacon API](http://www.viewranger.com/developer
 
 ``` php
 require_once('vendor/autoload.php');
+
 use Symm\ViewRangerClient\ViewRangerClient;
 
-$client = ViewRangerClient::create('YOUR_API_KEY_HERE');
-
-$lastBeacon = $client->getLastBeaconPosition('your-email@address.com, 1234);
+$client     = ViewRangerClient::create('YOUR_API_KEY_HERE');
+$lastBeacon = $client->getLastBeaconPosition('your-email@address.com', 1234);
 
 print $beacon->getLocation();
 print $beacon->getHeading();
