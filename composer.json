@@ -1,5 +1,5 @@
 {
-    "name": "symm/viewranger-api",
+    "name": "symm/viewranger-api-client",
     "description": "Client for the ViewRanger API",
     "minimum-stability": "stable",
     "license": "MIT",
